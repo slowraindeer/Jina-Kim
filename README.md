@@ -12,7 +12,7 @@ StyleAlignNet operates by transforming all segmentation masks to conform to a us
 - `Custom_loss.py` : Defines the loss functions used in `StyleAlignNet.py`.
 - `README.md` : Provides an overview of StyleAlignNet and usage instructions.
 
-##Installation
+## Installation
 Clone the repository:
 
 ```bash
